@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #C1AA22;
+} 
+
+.sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading {
+    color: #C1AA22;
+}
+.sb-sidenav-dark .sb-sidenav-menu .nav-link {
+    color: #ffffff;
+}
+
+h1{
+	font-family: cursive;
+}
+
+.dataTable-table th{
+    background-color: #233f6f; 
+    color: #ffffff;
+	text-align: center
+}
+
+
+.dataTable-table tr:nth-child(even) {background-color: #f2f2f2;}
